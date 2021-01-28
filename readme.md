@@ -1,4 +1,3 @@
-Live demo: https://timhutton.github.io/opengl-canvas-wasm/
 
 Instructions:
 -------------
